@@ -1,0 +1,13 @@
+guru:
+  jms:
+    username: JMS User
+    password: jmsPass
+    url: someJMSurl
+
+---
+spring:
+  profiles: de
+
+guru:
+  jms:
+    username: JMS Nezz In German
